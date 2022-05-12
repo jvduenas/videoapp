@@ -194,6 +194,8 @@ def add_event(request):
         }
     return render(request, 'addevent.html', context)
 
+#This is as of May 12, 2022
+
 
 
 
